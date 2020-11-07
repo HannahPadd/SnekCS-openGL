@@ -10,6 +10,7 @@ namespace SnekCS_openGL
 {
     class Visuals : GameWindow
     {
+        //test
         string pressedKey = "";
         Input inputListener = new Input();
         public Visuals(int width, int height, string title) : base(width, height, GraphicsMode.Default, title) { }
